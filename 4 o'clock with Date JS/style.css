@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: auto;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: black;
+}
+#time{
+    display: flex;
+    width: 250px;
+    height: 95px;
+    border: 3px solid aqua;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 5px 5px 5px aqua;
+    border-radius: 10px;
+    color: rgb(236, 58, 153);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+}
+#day{
+    display: flex;
+    width: 250px;
+    height: 95px;
+    border: 3px solid aqua;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 5px 5px 5px aqua;
+    border-radius: 10px;
+    color: rgb(236, 58, 153);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
